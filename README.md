@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauriciohernancabrera" alt="mauriciohernancabrera" /> </p>
 
-- 🌱 I’m currently learning **how to contribute to open source**
+- 🌱 I’m currently learning **contribute to open source**
 
 - 👯 I’m looking to collaborate on [Bootstrap](https://getbootstrap.com/)
 
