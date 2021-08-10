@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **mauriciohernancabrera@gmail.com**
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciohernancabrera&layout=compact&hide=html" alt="mauriciohernancabrera" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mauriciohernancabrera&show_icons=true" alt="mauriciohernancabrera" /></p>
 
 <p align="center">
