@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **contribute to open source**
 
-- 👨‍💻 All of my projects are available at [http://mauriciohernancabrera.github.io/](http://mauriciohernancabrera.github.io/)
-
 - 📫 How to reach me **mauriciohernancabrera@gmail.com**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciohernancabrera&layout=compact&hide=html" alt="mauriciohernancabrera" /></p>
